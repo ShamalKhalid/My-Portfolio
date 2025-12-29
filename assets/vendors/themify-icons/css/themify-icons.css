@@ -954,6 +954,10 @@
 .ti-linkedin:before {
   content: "\e735";
 }
+.ti-whatsapp:before {
+  content: "\e741";
+}
+
 .ti-layout-sidebar-2:before {
   content: "\e736";
 }
